@@ -28,6 +28,10 @@
     {
       "id": "Page3",
       "isDefault": false
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
